@@ -13,6 +13,9 @@ public class sample {
 		System.out.println("Hi");
 		
 		System.out.println("Hello from Branch 1");
+		
+		System.out.println("Hello from Branch 2");
+		
 
 	}
 }
