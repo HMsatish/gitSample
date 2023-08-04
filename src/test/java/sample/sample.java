@@ -8,10 +8,9 @@ public class sample {
 	public void demo1() {
 		System.out.println("Hi this is fourth commite");
 		
-
 		System.out.println("Hi from AT");
 
-		System.out.println("hi");
+		System.out.println("Hi");
 
 	}
 }
